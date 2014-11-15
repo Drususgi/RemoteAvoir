@@ -1,8 +1,9 @@
 1er blabla
-2Ëme blabla
-3Ëme blabla mis dans PC920
-4Ëme blabla mis dans Surface.
+2√®me blabla
+3√®me blabla mis dans PC920
+4√®me blabla mis dans Surface.
 Quelques corrections depuis pc920 master
-J'arrive trËs bien ‡ changer ce fichier avec Notepad pc920 dans master.
+J'arrive tr√®s bien √† changer ce fichier avec Notepad pc920 dans master.
+Ligne 7 chang√©e directement dans Github.
 
 
